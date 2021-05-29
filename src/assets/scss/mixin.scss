@@ -1,0 +1,45 @@
+@mixin flex($hov:space-between,$col:center) {
+  display: flex;
+  justify-content: $hov;
+  align-items: $col;
+}
+
+@mixin bgImg($width:0,$height:0,$img:"",$size:contain) {
+  display: inline-block;
+  width: $width;
+  height: $height;
+  background: url($img) no-repeat center;
+  background-size: $size;
+}
+
+@mixin topRightPositionedImg($pos:absolute,$top:0,$right:0,$width:0,$height:0,$img:"",$size:contain) {
+  position: $pos;
+  top: $top;
+  right: $right;
+  width: $width;
+  height: $height;
+  background: url($img) no-repeat center;
+  background-size: $size;
+}
+
+@mixin position($pos:absolute,$top:0,$left:0,$w:100%,$h:100%) {
+  position: $pos;
+  top: $top;
+  left: $left;
+  width: $w;
+  height: $h;
+}
+
+@mixin height($h:0,$lh:$h) {
+  height: $h;
+  line-height: $lh;
+}
+
+@mixin wH($w:0,$h:0) {
+  width: $w;
+  height: $h;
+}
+
+@mixin border($bw:1px,$bc:$colorF,$bs:solid) {
+  border: $bw $bs $bc;
+}
