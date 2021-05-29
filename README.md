@@ -1,4 +1,4 @@
-# mi-mall
+# e-mall
 
 ## Project setup
 ```
