@@ -1,24 +1,2 @@
-# e-mall
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# E-Mall
+E-Mall is an e-commerce platform built on Vue.js framework. [A SpringBoot server](https://github.com/Super262/emall-dev) provides back-end services, which also support seckill and high concurrent access.
