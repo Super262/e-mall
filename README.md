@@ -1,26 +1,26 @@
 # E-Mall
 E-Mall is an e-commerce platform built on Vue.js framework. [A SpringBoot server](https://github.com/Super262/emall-dev) provides back-end services, which also support seckill and high concurrent access.
 
-#### Home Page
+### Home Page
 ![](https://github.com/Super262/emall-dev/blob/master/screenshots/Picture01.png)
 
-#### Products Page
+### Products Page
 ![](https://github.com/Super262/emall-dev/blob/master/screenshots/Picture02.png)
 
-#### Details Page
+### Details Page
 ![](https://github.com/Super262/emall-dev/blob/master/screenshots/Picture03.png)
 
-#### Cart Page
+### Cart Page
 ![](https://github.com/Super262/emall-dev/blob/master/screenshots/Picture04.png)
 
-#### Order Page
+### Order Page
 ![](https://github.com/Super262/emall-dev/blob/master/screenshots/Picture05.png)
 
-#### Confirmation Page
+### Confirmation Page
 ![](https://github.com/Super262/emall-dev/blob/master/screenshots/Picture06.png)
 
-#### Payment Page
+### Payment Page
 ![](https://github.com/Super262/emall-dev/blob/master/screenshots/Picture07.png)
 
-#### Architecture
+### Architecture
 ![](https://github.com/Super262/emall-dev/blob/master/screenshots/Picture08.png)
